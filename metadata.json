@@ -1,0 +1,6 @@
+{
+  "name": "SIMAMAT - Universitas Komputama Majenang",
+  "description": "Sistem Informasi Manajemen Arsip Surat untuk Universitas Komputama Majenang",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
